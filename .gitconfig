@@ -9,6 +9,8 @@
 	defaultBranch = main
 [pull]
 	ff = only
+[push]
+	autoSetupRemote = true
 [user]
 	email = sam@samestep.com
 	name = Sam Estep

@@ -5,6 +5,10 @@
 	root = rev-parse --show-toplevel
 [core]
 	editor = vim
+[fetch]
+	prune = true
+	pruneTags = true
+	all = true
 [init]
 	defaultBranch = main
 [pull]

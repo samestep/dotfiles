@@ -6,9 +6,8 @@
 [core]
 	editor = vim
 [fetch]
-	prune = true
-	pruneTags = true
 	all = true
+	prune = true
 [init]
 	defaultBranch = main
 [merge]
